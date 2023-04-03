@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author alexs
+ *
+ */
+module chess {
+}
