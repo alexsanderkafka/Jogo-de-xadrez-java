@@ -11,5 +11,4 @@ public class Program {
 		UI.printBoard(c.getPieces());
 		
 	}
-
 }
